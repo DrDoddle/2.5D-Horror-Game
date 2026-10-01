@@ -1,0 +1,26 @@
+# Build output
+build/
+cmake-build-*/
+out/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# IDE stuff
+.idea/
+.vscode/
+
+# Compiled files
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.pdb
+
+# OS junk
+.DS_Store
+Thumbs.db
